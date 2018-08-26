@@ -9,12 +9,12 @@ Check out this link for the [article]
 
 This project use nodejs as the language, To get start, Install npm modules,
 
-`npm install
+`npm install`
 
 If nodemon not installed install it by using
 
-`npm i -g nodemon
+`npm i -g nodemon`
 
 Then boot up the server
 
-`npm start
+`npm start`
